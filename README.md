@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# Unsplash clone is made by React
+
+## UnsplashAPI : https://unsplash.com/developers
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
